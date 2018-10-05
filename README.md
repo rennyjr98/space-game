@@ -3,6 +3,8 @@ Principles of gaming on Java and Graphics2D - Spac-Game
 
 Very simple code to make a game with Java, Graphics2D, Threads and Events.
 
+![space-game](https://user-images.githubusercontent.com/43800628/46557415-a2695480-c89e-11e8-89ba-24a8dee88fc9.png)
+
 ---
 
 # Graphics on Java
